@@ -9,4 +9,4 @@ This is a place for me to explore all things related to matrix operations.  Some
 * numpy
 * jax
 * GPU vs. CPU
-* matrices as graphs
+* graphs as matrices
